@@ -12,6 +12,8 @@ With the COVID pandemic continuing to impact lives and businesses globally and i
 
 This project aims to help the restaurants and cafes with a new and innovative method for customers placing orders, which reduces staff face-to-face contact with customers. Many businesses have found they needed to adapt their business models to cope with the effects of the pandemic. 
 
+With this implementation, the customer could show the food item selection of number from the menu items with the fingers number display onto camera from browser which captures the live photo and then with thumbs up as "Make Order" or thumbs down as "Order Cancel" 
+
 ## Business case:
 
 Order-Mate is offered to businesses on a month-to-month subscription basis with no lock in contract. The first month is offered free as a trial and businesses are offered an additional month free for referring another business. Monthly billing is $200AUD via direct debit.
