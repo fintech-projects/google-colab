@@ -26,8 +26,7 @@ Order-Mate's key reveneue stream is monthly subscription, however, Order-Mate is
 
 <ul>
   <li>Google Colab runtime selection as "GPU"</li>
-  <li>First run the Finger_detection.ipynb to create and save the Fingers model in google colab contents folder OR could upload the model to Google Colab content folder</li>
-  <li>Second run the predict_live_image.ipynb</li>
-  <li>Capture live image with plain background with light color and show finger count only to camera rather than with background noises or human faces - this is a limitation in the model trained and will be upgraded in future when time permits</li>
+  <li>Before the predict_live_image.ipynb is run, the models need to be uploaded</li>
+  <li>Capture live image with plain background of light color and show finger count only to camera rather than with background noises or human faces - this is a limitation in the model trained and will be upgraded in future when time permits</li>
   <li>Upload kaggle.json when prompted during runtime</li>
 </ul>
