@@ -22,7 +22,7 @@ Order-Mate seeks growth via organic referrals from businesses and consumers alik
 
 Order-Mate's key reveneue stream is monthly subscription, however, Order-Mate is seeking key partnerships with advertisers to boost revenue via adverstising within the application.
 
-## Instructions or pre-requisites to run the Notebook - predict_live_image.ipynb in Google Colab 
+### Instructions or pre-requisites to run the Notebook - predict_live_image.ipynb in Google Colab 
 
 <ul>
   <li>Google Colab runtime selection as "GPU"</li>
@@ -32,4 +32,4 @@ Order-Mate's key reveneue stream is monthly subscription, however, Order-Mate is
   <li>Upload kaggle.json when prompted during runtime</li>
 </ul>
 
-## Project Presentation Power Point Slideshow can be viewed on "Order-Mate.pptx"
+#### Project Presentation Power Point Slideshow can be viewed on "Order-Mate.pptx"
