@@ -31,3 +31,5 @@ Order-Mate's key reveneue stream is monthly subscription, however, Order-Mate is
   <li>Click on "Capture" button to save live image - while capturing the live image it is preferred with plain background of light color and show finger count only to camera rather than with background noises or human faces - this is a limitation in the model trained and will be upgraded in future version when time permits</li>
   <li>Upload kaggle.json when prompted during runtime</li>
 </ul>
+
+## Project Presentation Power Point Slideshow can be viewed on "Order-Mate.pptx"
