@@ -29,7 +29,9 @@ Order-Mate's key reveneue stream is monthly subscription, however, Order-Mate is
 
   <li>Create_model.ipynb should be run before the prediction file and the saved model should be uploaded to Google Colab prior to predict_live_image file run</li>
 
-  <li>When predict_live_image.ipynb is run, the input image is predicted with the model</li>
+  <li>When predict_live_image_using_fingers_resnet_model.ipynb is run, the input image is predicted with the resnet model</li>
+  
+  <li>When predict_live_image_using_custom_fingers_model.ipynb is run, the input image is predicted with the custom model</li>
 
   <li>From "Capture Live Photo" section - Click on "Capture" button to save live image - while capturing the live image it is preferred with plain background of light color and show finger count only to camera rather than with background noises or human faces - this is a limitation in the model trained and will be upgraded in future version when time permits</li>
 
